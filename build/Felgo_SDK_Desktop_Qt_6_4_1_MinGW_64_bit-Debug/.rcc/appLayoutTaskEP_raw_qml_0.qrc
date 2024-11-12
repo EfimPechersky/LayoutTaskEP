@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/ColorRectangle.qml">D:/LTEP/LayoutTaskEP/qml/ColorRectangle.qml</file>
+  </qresource>
+</RCC>
+

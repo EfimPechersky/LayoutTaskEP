@@ -1,0 +1,15 @@
+-rootPath
+D:/LTEP/LayoutTaskEP
+-cmake-output
+-output-file
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appLayoutTaskEP.cmake
+-importPath
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/LayoutTaskEP
+-importPath
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_LayoutTaskEP.qrc
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_LayoutTaskEP_copy.qrc
+D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appLayoutTaskEP_raw_qml_0.qrc

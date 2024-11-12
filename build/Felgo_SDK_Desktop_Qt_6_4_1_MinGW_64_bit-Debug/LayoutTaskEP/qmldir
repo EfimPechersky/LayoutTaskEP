@@ -1,0 +1,5 @@
+module LayoutTaskEP
+typeinfo appLayoutTaskEP.qmltypes
+prefer :/
+ColorRectangle 1.0 qml/ColorRectangle.qml
+

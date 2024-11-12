@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/LayoutTaskEP">
+    <file alias="qmldir">D:/LTEP/LayoutTaskEP/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/LayoutTaskEP/qmldir</file>
+  </qresource>
+</RCC>
+
